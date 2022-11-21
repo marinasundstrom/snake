@@ -2,7 +2,9 @@
 
 Implementation of the classical game: Snake.
 
-Not complete.
+There are some bugs.
+
+![Screenshot](/screenshot.png)
 
 ## Technologies
 
