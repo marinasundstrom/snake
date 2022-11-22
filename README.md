@@ -1,6 +1,6 @@
 # Snake
 
-Implementation of the classical game: Snake.
+Implementation of the classic game: Snake.
 
 There are some bugs.
 
